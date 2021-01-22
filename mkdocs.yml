@@ -1,0 +1,8 @@
+site_name: "react-test-custom"
+site_description: "react-test-custom"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
